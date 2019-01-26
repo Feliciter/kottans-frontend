@@ -25,3 +25,5 @@ The course is interesting. a lot of new
 
 What is Version Control
 https://classroom.udacity.com/courses/ud123/
+
+![Version Control with Git](http://b3.ge.tt/thumbnail/3F5wDBu2/0/YhpFx86mU3T5Db/0x675.png?ofn=Version%20Control%20with%20Git.png)
