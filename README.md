@@ -30,3 +30,10 @@ https://classroom.udacity.com/courses/ud123/
 
 
 ![GitHub & Collaboration](http://b3.ge.tt/thumbnail/1CIDEBu2/0/YhpFx86mU3T5Db/0x675.png?ofn=GitHub%20&%20Collaboration.png=)
+
+
+## Intro to HTML and CSS
+
+![Intro to HTML & CSS (Eng)](http://b3.ge.tt/thumbnail/5dheFBu2/0/YhpFx86mU3T5Db/0x675.png?ofn=Intro%20to%20HTML%20and%20CSS.png)
+
+
