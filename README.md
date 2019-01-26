@@ -36,4 +36,6 @@ https://classroom.udacity.com/courses/ud123/
 
 ![Intro to HTML & CSS (Eng)](http://b3.ge.tt/thumbnail/5dheFBu2/0/YhpFx86mU3T5Db/0x675.png?ofn=Intro%20to%20HTML%20and%20CSS.png)
 
+![Intro to HTML & CSS (Eng)](http://b3.ge.tt/thumbnail/6Nu5GBu2/1/YhpFx86mU3T5Db/0x675.png?ofn=htmlCss5.png)
+
 
